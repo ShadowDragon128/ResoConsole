@@ -3,6 +3,7 @@
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that opens a console window to view log messages. With an added touch of displaying color text depending on the severity of the message (Log = Gray, Warning = Dark Yellow, Error = Dark Red, Debug = Dark Cyan).
 
 ## Screenshots
+<img width="1102" height="638" alt="image" src="https://github.com/user-attachments/assets/4ca8304c-682a-445c-888b-019314ef87ed"/>
 <!-- If your mod has visible effects in the game, attach some images or video of it in-use here! Otherwise remove this section -->
 
 ## Installation
